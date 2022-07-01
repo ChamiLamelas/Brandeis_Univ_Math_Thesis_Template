@@ -14,6 +14,6 @@ This repository holds a LaTeX file that serves as a template for senior honors t
 
 ## Notes
 
-* I used [Overleaf](https://www.overleaf.com/) to write these files and would recommend you do the same. You can get an Overleaf Professional account using your Brandeis email. In here you will find various templates such as the thesis template for the Computational Linguistics graduate program written by [Constantine Lignos](https://lignos.org/).
+* I used [Overleaf](https://www.overleaf.com/) to write these files and would recommend you do the same. You can get an Overleaf Professional account using your Brandeis email. In here you will find various templates such as the thesis template for the Computational Linguistics graduate program written by Professor [Constantine Lignos](https://lignos.org/).
 
 
